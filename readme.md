@@ -26,7 +26,7 @@ Fitness – is an html template for gym, fitness or health club. It is cross bro
 .
 .
 
-[![Fitness single page website template](https://i.ibb.co/vwN8cgW/live-demo.png)](https://furniture-atulcodex.netlify.app/)
+[![Fitness single page website template](https://i.ibb.co/vwN8cgW/live-demo.png)](https://atulcodex-fitness.netlify.app/)
 
 .
 .
