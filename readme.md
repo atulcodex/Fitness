@@ -2,7 +2,7 @@
 
 ![Fitness single page website template](fitness.png)
 
-##### [watch on youtube](https://youtu.be/6Az1D22fN6E)
+##### [watch on youtube](https://www.youtube.com/watch?v=1cm_FlIOLyI)
 
 Fitness – is an html template for gym, fitness or health club. It is cross browser compatible, uses free fonts so your website typography will look exactly as you intend it.
 
